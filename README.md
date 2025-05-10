@@ -20,7 +20,7 @@ This project explores whether injury severity in traffic crashes can be predicte
 ## 📁 Project Structure
 ├── Injury-Classification.ipynb # Main notebook
 
-├── data/ # Optional directory for datasets
+├── requirements.txt # Project imports
 
 └── README.md # Project overview
 
