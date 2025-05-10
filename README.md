@@ -15,7 +15,7 @@ This project explores whether injury severity in traffic crashes can be predicte
 
 - **Language**: Python (Jupyter Notebook)
 - **Libraries**: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
-- **Data Source**: [Crash Reporting – Drivers Data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/about_data)
+- **Data Source**: [Crash Reporting – Drivers Data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/data_preview)
 
 ## 📁 Project Structure
 ├── Injury-Classification.ipynb # Main notebook
