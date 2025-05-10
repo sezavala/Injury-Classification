@@ -1,6 +1,6 @@
 # 🚗 Car Accidents Injury Classification
 
-This project explores whether injury severity in traffic crashes can be predicted based on environmental and crash-related conditions like weather, lighting, and vehicle damage. Using a publicly available dataset from the [Maryland Open Crash Reporting System]( https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/4mse-ku6q), we build and evaluate machine learning models to classify injury outcomes.
+This project explores whether injury severity in traffic crashes can be predicted based on environmental and crash-related conditions like weather, lighting, and vehicle damage. Using a publicly available dataset from the [Maryland Open Crash Reporting System]( https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/about_data), we build and evaluate machine learning models to classify injury outcomes.
 
 ## 📊 Project Goals
 
@@ -15,7 +15,7 @@ This project explores whether injury severity in traffic crashes can be predicte
 
 - **Language**: Python (Jupyter Notebook)
 - **Libraries**: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
-- **Data Source**: [Crash Reporting – Drivers Data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/4mse-ku6q)
+- **Data Source**: [Crash Reporting – Drivers Data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/about_data)
 
 ## 📁 Project Structure
 ├── Injury-Classification.ipynb # Main notebook
